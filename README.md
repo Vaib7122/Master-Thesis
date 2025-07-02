@@ -1,2 +1,2 @@
-# Master-thesis
+# Master-Thesis
 Disease Detection model 
